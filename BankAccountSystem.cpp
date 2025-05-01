@@ -1,4 +1,4 @@
-#include<iostream>
+s#include<iostream>
 #include<string.h>
 using namespace std;
 class BankAccount{
